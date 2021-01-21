@@ -1,5 +1,6 @@
 import csv
 
+# Lendo um arquivo com delimitaores diferentes de virgula
 # with open('passwd.txt','r') as f:
 #     reader = csv.reader(f,delimiter = ':', lineterminator = '\n')
 #     for row in reader:

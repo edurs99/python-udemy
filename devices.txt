@@ -1,0 +1,5 @@
+CoreDevice:78.1.1.1:root:RPasssfdsf
+CentralRouter:8.1.1.1:admin:tesrtaers
+AccessSwitch1:78.1.2.2:admin:c3qrsdfwe
+Server1:10.0.0.1:admin:12e1432rcwefc
+Router1:90.0.0.1:u1:ser3QL.KKL
