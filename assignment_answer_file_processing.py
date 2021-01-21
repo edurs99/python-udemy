@@ -8,4 +8,3 @@ for item in devices:
     tmp = item.split(':')
     mylist.append(tmp)
 print(mylist)
-#
