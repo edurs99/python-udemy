@@ -1,5 +1,5 @@
-hostname Router1
-int loopback 3
+Line added with r+
+t loopback 3
 ip address 3.3.3.3 255.255.255.255
 exit
 router ospf 1
