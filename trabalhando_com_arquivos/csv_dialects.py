@@ -10,7 +10,7 @@ import csv
 
 csv.register_dialect('hashes',delimiter='#',quoting=csv.QUOTE_NONE,lineterminator='\n')
 
-with open('items.csv','r') as csvfile:
+with open('items.csv', 'r') as csvfile:
     reader = csv.reader(csvfile, dialect='hashes')
 
     for row in reader:

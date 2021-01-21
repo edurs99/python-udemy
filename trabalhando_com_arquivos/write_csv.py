@@ -7,7 +7,7 @@ with open('people.csv', 'a') as csvfile:
 
 # Criando um CSV com numeros e potencias.
 
-with open('numbers.csv','w', newline='') as f:
+with open('numbers.csv', 'w', newline='') as f:
     writer = csv.writer(f)
     writer.writerow(['x','x**2', 'x**3', 'x**4'])
     for x in range (1,130):
